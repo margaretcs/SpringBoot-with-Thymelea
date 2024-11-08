@@ -21,4 +21,4 @@ This project is a basic web application that enables user registration and login
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/margaretcs/SpringBoot-with-Thymeleaf.git
+   git clone https://github.com/margaretcs/SpringBoot-with-Thymelea.git
